@@ -84,6 +84,4 @@ export const TransactionTypeContainer = styled.div`
         font-size: 1rem;
         color: var(--text-title);       
     }
-
-
 `;

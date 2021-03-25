@@ -50,7 +50,6 @@ export const GlobalStyle = createGlobalStyle`
 
     button {
         cursor: pointer;
-        outline: 0;
     }
 
     [disabled] {

@@ -5,7 +5,7 @@
 <h3 align="center">
   Projeto 01: dt money
 </h3>
-<img alt="dt money" src="https://i.imgur.com/UCTykCr.png">
+<img alt="dt money" src="https://i.imgur.com/55F98sT.png">
 
 ## Sobre o projeto
 

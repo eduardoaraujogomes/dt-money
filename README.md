@@ -9,7 +9,7 @@
 
 ## Sobre o projeto
 
-O projeto foi baseado no 2º módulo da trilha ReactJS do Ignite. Foi inserido um sistema de autenticação (via Context API) e também no MirageJS com JWT/Bcrypt.
+O projeto foi baseado no 2º módulo da trilha ReactJS do Ignite.
 
 ## 🚀 Como executar
 

@@ -2,14 +2,14 @@
 <h2 align="center">
   Ignite - Trilha ReactJS
 </h2>
-<p align="center">
+<h3 align="center">
   Projeto 01: dt money
-</p>
+</h3>
 <img alt="dt money" src="https://i.imgur.com/UCTykCr.png">
 
 ## Sobre o projeto
 
-O projeto foi baseado no 2º módulo da trilha ReactJS do Ignite. Além do que foi construído na [aula](https://github.com/matheuslanduci/aula02-trilha-react), também foi inserido um sistema de autenticação (via Context API) e também no MirageJS com JWT/Bcrypt.
+O projeto foi baseado no 2º módulo da trilha ReactJS do Ignite. Foi inserido um sistema de autenticação (via Context API) e também no MirageJS com JWT/Bcrypt.
 
 ## 🚀 Como executar
 

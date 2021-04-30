@@ -13,7 +13,7 @@ O projeto foi baseado no 2º módulo da trilha ReactJS do Ignite.
 
 ## 🚀 Como executar
 
-- Clone o repositório
-- Instale as dependências com yarn
-- Inicie o servidor com yarn start
-- Agora você pode acessar localhost:3000 do seu navegador.
+- Clone o repositório `https://github.com/eduardoaraujogomes/dt-money.git`
+- Instale as dependências com `yarn init`
+- Inicie o servidor com `yarn start`
+- Agora você pode acessar `localhost:3000` do seu navegador.

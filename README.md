@@ -1,7 +1,7 @@
 <img alt="Ignite" src="https://i.imgur.com/XIYqKzO.png">
 <h2 align="center">
   Ignite - Trilha ReactJS
-</h2>
+</h2> 
 <h3 align="center">
   Projeto 01: dt money
 </h3>

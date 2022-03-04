@@ -9,7 +9,7 @@
 
 ## Sobre o projeto
 
-O projeto foi feito no 2º módulo da trilha ReactJS do Ignite.
+O projeto foi feito no 2º módulo da trilha ReactJS do Ignite. 
 
 ## 🚀 Como executar
 
